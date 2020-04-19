@@ -24,6 +24,6 @@
 * Java: openjdk version "11.0.6" 2020-01-14
    OpenJDK Runtime Environment AdoptOpenJDK (build 11.0.6+10)
    OpenJDK 64-Bit Server VM AdoptOpenJDK (build 11.0.6+10, mixed mode)
-* Файл исходного текста тестируемой программы:  
-* Файл исходного текста класса BonusMilesService: 
-* Файл класса BonusMilesService: 
+* Файл исходного текста тестируемой программы:  https://github.com/VeraOm/JavaHW4Task1/blob/master/src/Main.java
+* Файл исходного текста класса BonusMilesService: https://github.com/VeraOm/JavaHW4Task1/blob/master/src/BonusMilesService.java
+* Файл класса BonusMilesService: https://github.com/VeraOm/JavaHW4Task1/blob/master/classes/BonusMilesService.class
